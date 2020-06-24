@@ -33,6 +33,42 @@
       },
       {
         "photo":"",
+        "name": "Freddie Nightmare",
+        "age": "23",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
+        "name": "Gale Jackson",
+        "age": "19",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
+        "name": "Hush Eddington",
+        "age": "22",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
+        "name": "Ignatius Aimers",
+        "age": "25",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
+        "name": "Justin Belieber",
+        "age": "22",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
+        "name": "Kade Austin",
+        "age": "28",
+        "gender": "Male"
+      },
+      {
+        "photo":"",
         "name": "Abbie Gordon",
         "age": "20",
         "gender": "Female"
@@ -59,6 +95,42 @@
         "photo":"",
         "name": "Emma Gannon",
         "age": "21",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Felicity Barron",
+        "age": "24",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Gwen Kellie",
+        "age": "24",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Hayley Bronte",
+        "age": "23",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Ike Francas",
+        "age": "21",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Jackie Chan",
+        "age": "25",
+        "gender": "Female"
+      },
+      {
+        "photo":"",
+        "name": "Keely Waze",
+        "age": "26",
         "gender": "Female"
       }
     ]
